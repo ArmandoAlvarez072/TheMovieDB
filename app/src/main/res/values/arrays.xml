@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="status_value">
+        <item>@string/now_playing</item>
+        <item>@string/popular_movies</item>
+    </string-array>
+</resources>

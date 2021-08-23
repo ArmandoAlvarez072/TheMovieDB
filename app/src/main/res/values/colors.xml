@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorOnPrimary">@color/white</color>
+    <color name="colorOnSecondary">@color/cyan_600_dark</color>
+
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="light_blue_900">#01579b</color>
+    <color name="light_blue_900_light">#4f83cc</color>
+    <color name="light_blue_900_dark">#002f6c</color>
+    <color name="cyan_600">#00acc1</color>
+    <color name="cyan_600_light">#5ddef4</color>
+    <color name="cyan_600_dark">#007c91</color>
+    <color name="gray_100">#F5F5F5</color>
+
+    <color name="trans">#00000000 </color>
+</resources>
